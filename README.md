@@ -59,7 +59,11 @@ NEAT (NeuroEvolution of Augmenting Topologies) is a method of evolving artificia
 
 
 ## Training Mode Demo
-https://<anky0107>.github.io/<PlayPulse>/<training_Demo>.<mp4>
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/anky0107/PlayPulse/main/assets/training_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## AI Mode Demo
 
