@@ -1,7 +1,8 @@
-# Flappy Bird Game with NEAT AI
+# $\color{ligth-red}{**PlayPulse**}$
+# $\color{green}Flappy Bird Game with NEAT AI
 Welcome to the Flappy Bird game made using Pygame and NEAT (NeuroEvolution of Augmenting Topologies)! This project combines classic gameplay with artificial intelligence to create an engaging gaming experience. In this game, you can play as the flappy bird yourself or watch an AI take control and attempt to navigate through the obstacles.
 
-## Installation
+## $\color{}Installation
 1. Ensure you have Python installed on your system (Python 3.6 or higher).
 2. Clone this repository to your local machine using the following command:
 
