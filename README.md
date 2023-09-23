@@ -6,10 +6,10 @@ Welcome to the Flappy Bird game made using Pygame and NEAT (NeuroEvolution of Au
 1. Ensure you have Python installed on your system (Python 3.6 or higher).
 2. Clone this repository to your local machine using the following command:
 
-        git clone https://github.com/Siddharth-2382/Flappy-Bird-AI.git
+        git clone https://github.com/anky0107/PlayPulse.git
 3. Navigate to the project directory:
 
-        cd Flappy-Bird-AI
+        cd PlayPulse
 4. Install the required dependencies. It is recommended to set up a virtual environment before installing the dependencies:
 
         pip install -r requirements.txt
