@@ -60,7 +60,7 @@ NEAT (NeuroEvolution of Augmenting Topologies) is a method of evolving artificia
 
 ## Training Mode Demo
 
-https://github.com/Siddharth-2382/Flappy-Bird-AI/assets/94699055/fc11a58f-8a4a-450c-8f2a-554b38da3c66
+https://github.com/anky0107/PlayPulse/blob/main/assets/AI_plays.mp4
 
 ## AI Mode Demo
 
